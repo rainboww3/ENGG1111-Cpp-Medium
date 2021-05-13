@@ -1,5 +1,13 @@
 # ENGG1111-C-Basics
 
-Learning c++ basics.
+Learning c++ basic grammar/skills
 
-#-language syntax
+-language syntax   
+-flow control   
+-fucction   
+-arrays   
+-string   
+-structure, class   
+-pointer   
+-data structure   
+
