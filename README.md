@@ -1,4 +1,4 @@
-# ENGG1111-C-Basics
+# ENGG1111-C++-Basics
 
 Learning c++ basic grammar/skills
 
