@@ -1,3 +1,5 @@
 # ENGG1111-C-Basics
 
-Learning c++ basics
+Learning c++ basics.
+
+#-language syntax
