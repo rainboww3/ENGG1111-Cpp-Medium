@@ -2,7 +2,7 @@
 
 Solving C++ Intermediate Questions.
 
-Topics related to:
+## Topics related to:
 
 -language syntax   
 -flow control   
@@ -13,3 +13,6 @@ Topics related to:
 -pointer   
 -data structure   
 
+### 🛠 Skills
+
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
