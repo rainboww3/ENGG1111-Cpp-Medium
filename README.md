@@ -1,6 +1,8 @@
-# ENGG1111-C++-Basics
+# ENGG1111: Intermediate C++ Questions  
 
-Learning c++ basic grammar/skills
+Solving C++ Intermediate Questions.
+
+Topics related to:
 
 -language syntax   
 -flow control   
