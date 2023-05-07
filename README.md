@@ -1,6 +1,6 @@
 # 🛴ENGG1111: Medium C++ Questions  
 
-Solving C++ Intermediate - Medium Questions.
+Improve C++ problem solving skills by Solving C++ Intermediate - Medium Questions.
 
 ## Topics related to:
 
