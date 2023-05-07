@@ -1,6 +1,6 @@
-# 🛴ENGG1111: Intermediate C++ Questions  
+# 🛴ENGG1111: Medium C++ Questions  
 
-Solving C++ Intermediate Questions.
+Solving C++ Intermediate - Medium Questions.
 
 ## Topics related to:
 
