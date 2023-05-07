@@ -1,6 +1,7 @@
 #include<iostream>
 #include<iomanip>
 using namespace std;
+
 double add(double a, double b) {
 	return a + b;
 }
@@ -13,6 +14,7 @@ double mul(double a, double b) {
 double div(double a, double b) {
 	return a / b;
 }
+
 int main() {
 	double x, y;
 	char o;
