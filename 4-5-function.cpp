@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 bool isPerfect(int n) {
 	int sum = 0;
 	for (int i = 1; i < n; i++) {
