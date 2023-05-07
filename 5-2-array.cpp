@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int main() {
 	
 	int a[10] = { 1, 3, 5, 9, 7, 8, 2, 6, 3, 11 };
